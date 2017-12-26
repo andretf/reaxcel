@@ -1,6 +1,14 @@
 {
-  "name": "react-workbook",
-  "version": "1.0.0",
+  "name": "reaxcel",
+  "version": "0.0.1",
+  "description": "Experimental spreadsheet in React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andretf/reaxcel.git"
+  },
+  "main": "webpack.config.js",
+  "author": "Andre Figueiredo <andretf@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "del": "^3.0.0",
     "express": "^4.16.2",
@@ -26,9 +34,5 @@
   },
   "scripts": {
     "start:dev": "webpack-dev-server"
-  },
-  "main": "webpack.config.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
