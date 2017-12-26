@@ -5,7 +5,7 @@ Spreadsheet in React
 
 	$ npm install
     
-1.Run
+2.Run
 
 	npm run start:dev
     
